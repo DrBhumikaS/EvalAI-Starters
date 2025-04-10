@@ -1,5 +1,5 @@
 {
-	"token": "<evalai_user_auth_token>",
-	"team_pk": "<host_team_pk>",
+	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3NTgxNzgwNiwianRpIjoiOWIyY2FhNGM5YzA4NGM3ZTlmODUwNThmZjViOWNkYzIiLCJ1c2VyX2lkIjo1Mjk3MX0.OkhzSq0m2RIrC8Kodr_uab5jEoKCMiqfKEAIhuWGl_g",
+	"team_pk": "BS_Eval_Test",
 	"evalai_host_url": "<evalai_host_url>"
 }
